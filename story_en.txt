@@ -1,49 +1,73 @@
-title: Golden Globe
-subhead: Winners in main categories
+title: High-tech and high-price in Las Vegas
+subhead: Selected highlights from the Computer Electronics Show (CES) so far
 
 [tabs]
-image: frances-02.png
-props.name: Best actress (drama)
-props.title: Best actress - drama
-props.description: Frances McDormand 
-props.text: "Three Billboard Outside Ebbing Missouri"
-props.color: #FF7134
+image: auto2.jpg
+props.name: Electric luxury auto
+props.title: Electric luxury auto
+props.subtitle: Henrik Fisker
+props.text1: - To compete in top range for luxury cars 
+props.text2: - Semi-autonomous driving
+props.text3: - 644 km battery range
+props.text4: 
+props.text5: $129,000
+props.color: #B19ACA
 
-image: gary-02.png
-props.name: Best actor (Drama)
-props.title: Best actor - drama
-props.description: Gary Oldman 
-props.text: "Darkest Hour"
-props.color: #FF6D34
+image: robot.jpg
+props.name: Pole-dancing robots
+props.title: Pole-dancing robots
+props.subtitle: British artist Giles Walker
+props.text1: - Mimics pole-dancing moves of human dancers 
+props.text2: - Made from discarded electronics and hardware
+props.text3: - Powered by recovered windshield wiper motors
+props.text4: - Head made from jettisoned surveillance camera
+props.text5: For art: statement on surveillance, power, voyeurism
+props.color: #B19ACA
 
 
-image: saoirse-02.png
-props.name: Best actress (musical or comedy)
-props.title: Best actress - musical or comedy
-props.description: Saoirse Ronan
-props.text: "Lady Bird"
-props.color: #FF5F34
+image: foreo.jpg
+props.name: UFO face mask
+props.title: UFO face mask
+props.subtitle: Foreo
+props.text1: - Handheld to glide over face 
+props.text2: - Full facial in 90 seconds
+props.text3: - UFO stands for “Your Future Obsession”
+props.text4: 
+props.text5: $179 - 279
+props.color: #B19ACA
 
-image: james-02.png
-props.name: Best actor (music or comedy)
-props.title: Best actor - music or comedy
-props.description: James Franco
-props.text: "The Disaster Artist"
-props.color: #FF5434
+image: luggage.jpg
+props.name: Self-driving suitcase
+props.title: Self-driving suitcase
+props.subtitle: Travelmate
+props.text1: - Rolls alongside owner cars 
+props.text2: - Controlled by smartphone app
+props.text3: - Navigates obstacles
+props.text4: - Up to 11 kph speed
+props.text5: Around $1,100
+props.color: #B19ACA
 
-image: allison-02.png
-props.name: Best supporting actress
-props.title: Best supporting actress
-props.description: Allison Janney
-props.text: "I, Tonya"
-props.color: #F6301D
+image: translator.jpg
+props.name: Handheld translator
+props.title: Handheld translator
+props.subtitle: Travis
+props.text1: - Capable of simultaneous translation 
+props.text2: - Syncs to cloud computing
+props.text3: - Fluent in 80 languages
+props.text4: 
+props.text5: $199
+props.color: #B19ACA
 
-image: sam-02.png
-props.name: Best supporting actor
-props.title: Best supporting actor
-props.description: Sam Rockwell
-props.text: "Three Billboard Outside Ebbing Missouri"
-props.color: #E00202
+image: omron2.jpg
+props.name: Emotional robots
+props.name: Emotional robots
+props.subtitle: Omron Automation
+props.text1: - Table tennis-playing emotionally intelligent robot 
+props.text2: - Reads body language to gauge opponent’s mood, ability
+props.text3: - Offers advice, encouragement
+props.text4: 
+props.text5: For demonstration only
+props.color: #B19ACA
 
 []
 

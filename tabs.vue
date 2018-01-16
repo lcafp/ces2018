@@ -10,8 +10,12 @@
     <main>
       <img :src="currentImage" />
       <h3>{{ currentItem.props.title }}</h3>
-      <p class="name"> {{ currentItem.props.description }}</p>
-      <p> {{ currentItem.props.text }}</p>
+      <h4>{{ currentItem.props.subtitle }}</h4>
+      <p> {{ currentItem.props.text1 }}</p>
+      <p> {{ currentItem.props.text2 }}</p>
+      <p> {{ currentItem.props.text3 }}</p>
+      <p> {{ currentItem.props.text4 }}</p>
+      <p class="price"> {{ currentItem.props.text5 }}</p>
     </main>
     
   </div> 
